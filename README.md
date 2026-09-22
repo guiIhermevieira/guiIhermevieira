@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=9A0002&height=170&section=header&text=Guilherme%20Vieira&fontColor=EFE6DE&fontSize=44&fontAlignY=34&desc=Senior%20Fullstack%20Engineer%20%26%20Tech%20Lead&descAlignY=56&descSize=17" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=9A0002&height=170&section=header&text=Guilherme%20Vieira&fontColor=EFE6DE&fontSize=44&fontAlignY=34&desc=Senior%20Fullstack%20Engineer%20and%20Tech%20Lead&descAlignY=56&descSize=17" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1400&color=9A0002&center=true&vCenter=true&width=620&lines=KYC+%26+AML+platforms+for+3.5M%2B+users;Player-risk+and+transaction+monitoring;From+robotics+to+fullstack+to+tech+lead" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1400&color=9A0002&center=true&vCenter=true&width=620&lines=KYC+and+AML+platforms+for+3.5M%2B+users;Player-risk+and+transaction+monitoring;From+robotics+to+fullstack+to+tech+lead" alt="Typing intro" />
 
 <a href="https://www.linkedin.com/in/guiiherme-vieira/"><img src="https://img.shields.io/badge/LinkedIn-9A0002?style=for-the-badge&logo=linkedin&logoColor=EFE6DE" /></a>
 <img src="https://img.shields.io/badge/São_Paulo,_Brazil-UTC−3-EFE6DE?style=for-the-badge&labelColor=9A0002" />
